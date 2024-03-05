@@ -1,0 +1,29 @@
+
+*{
+    font-family: "poppins", sans-serif;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+    background-color: aquamarine;
+}
+
+/** Dar estilo a las etiquetas*/
+
+.tag{
+    font-size: 0.9rem;
+    background-color: black;
+    border-radius: 5px;
+    width: 4rem;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.card-title{
+    font-size: 2em;
+    font-weight: 700;
+}
